@@ -1,7 +1,7 @@
 <aside>
 🔤
 
-[**[English](https://www.happinessrailway.com/en/bvejbr)**](https://www.happinessrailway.com/en/bvejbr) and [**[Japanese (日本語)](https://www.happinessrailway.com/jp/bvejbr)**](https://www.happinessrailway.com/jp/bvejbr) are available!
+[**[English](https://www.happinessrailway.com/en/bvejbr)**] and [**[Japanese (日本語)](https://www.happinessrailway.com/jp/bvejbr)**] are available!
 
 </aside>
 
@@ -13,7 +13,7 @@
 1. 这部作品以及本页面所展示的内容是虚构的，与现实中的公司、组织、人员、车辆、车站、建筑物、环境、运输服务、信号系统等均无任何关系。
 2. 本网页所展示的内容等并非最终版本，可能会根据实际情况作临时改动。
 3. **如果您发现了任何包括但不局限于抄袭、污蔑等一系列侵权等恶劣行为，并且对版权方造成不良影响时，请立即与版权方联系并说明原因！
-【[[举报入口](https://www.happinessrailway.com/zxjb)](https://www.happinessrailway.com/zxjb)】或者【[[国家版权局](https://www.ncac.gov.cn/bsfw/zxjb/)](https://www.ncac.gov.cn/bsfw/zxjb/)】**
+【[[举报入口](https://www.happinessrailway.com/zxjb)]】或者【[[国家版权局](https://www.ncac.gov.cn/bsfw/zxjb/)]】**
 </aside>
 
 # 济北铁道简介
@@ -22,9 +22,9 @@
 
 这条模拟线路目前包括济北本线（工业研究院至李府井）以及方特线（李府井至方特）的单向运转。除此之外，将来还会增加一些其它线路。
 
-[[1000013848.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/cd3b6240-f026-4e45-9482-df1f1e50dd42/dbb6d21e-c51f-4ac7-9d41-67bf3126fda4/1000013848.mp4)](https://prod-files-secure.s3.us-west-2.amazonaws.com/cd3b6240-f026-4e45-9482-df1f1e50dd42/dbb6d21e-c51f-4ac7-9d41-67bf3126fda4/1000013848.mp4)
+[[1000013848.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/cd3b6240-f026-4e45-9482-df1f1e50dd42/dbb6d21e-c51f-4ac7-9d41-67bf3126fda4/1000013848.mp4)]
 
-[[济北铁道宣传片(Ver.250202)](https://player.bilibili.com/player.html?isOutside=true&aid=113934593950478&bvid=BV1T2FreXEnu&cid=28189265747&p=1)](https://player.bilibili.com/player.html?isOutside=true&aid=113934593950478&bvid=BV1T2FreXEnu&cid=28189265747&p=1)
+[[济北铁道宣传片(Ver.250202)](https://player.bilibili.com/player.html?isOutside=true&aid=113934593950478&bvid=BV1T2FreXEnu&cid=28189265747&p=1)]
 
 济北铁道宣传片(Ver.250202)
 
@@ -275,7 +275,7 @@
 | 编组 | 4、6、8节 |
 | 最高运行速度 | 120 km/h |
 | 信号系统 | C-ATS |
-| 制造方 | [[ゆーたん](https://yutanks-senzan.jimdofree.com/)](https://yutanks-senzan.jimdofree.com/) 或 [[napper_napalm](https://bvetkn.jimdofree.com/)](https://bvetkn.jimdofree.com/) |
+| 制造方 | [[ゆーたん](https://yutanks-senzan.jimdofree.com/)] 或 [[napper_napalm](https://bvetkn.jimdofree.com/)] |
 
 ### JBR-3700型（京成3700型）
 
@@ -343,14 +343,13 @@ Bve Trainsim 5.8（推荐）或 Bve Trainsim 6。下载游戏本体[[请点击�
 
 **注意：如果你从未接触过BVE Trainsim这款模拟软件，请先观看下面的教程再继续操作！**
 
-[[【BVE新手向教程（1）本体下载与线路下载】](https://www.bilibili.com/video/BV1se4y1A7NW/)](https://www.bilibili.com/video/BV1se4y1A7NW/)
+[[【BVE新手向教程（1）本体下载与线路下载】](https://www.bilibili.com/video/BV1se4y1A7NW/)]
 
-[[【BVE新手向教程（2）线路管理和版权问题】](https://www.bilibili.com/video/BV1Nd4y1H7u1/)](https://www.bilibili.com/video/BV1Nd4y1H7u1/)
+[[【BVE新手向教程（2）线路管理和版权问题】](https://www.bilibili.com/video/BV1Nd4y1H7u1/)]
 
-[[【BVE新手向教程（3）实操键位和部分保安装置确认方法介绍】](https://www.bilibili.com/video/BV1C8411M73X/)](https://www.bilibili.com/video/BV1C8411M73X/)
+[[【BVE新手向教程（3）实操键位和部分保安装置确认方法介绍】](https://www.bilibili.com/video/BV1C8411M73X/)]
 
-[[【BVE新手向教程（4）番外篇】](https://www.bilibili.com/video/BV1CY411q7ia/)](https://www.bilibili.com/video/BV1CY411q7ia/)
-
+[[【BVE新手向教程（4）番外篇】](https://www.bilibili.com/video/BV1CY411q7ia/)]
 </aside>
 
 - **安装指南**
@@ -370,7 +369,7 @@ Bve Trainsim 5.8（推荐）或 Bve Trainsim 6。下载游戏本体[[请点击�
 
 **Ver3.1.1.250524**
 
-[[DOWNLOAD](https://github.com/LxhNolan/Jibei-Railway/releases/download/v3.1.1.250524/LxhNolan-JBR-v3.1.1.250524.zip)](https://github.com/LxhNolan/Jibei-Railway/releases/download/v3.1.1.250524/LxhNolan-JBR-v3.1.1.250524.zip)
+[[DOWNLOAD](https://github.com/LxhNolan/Jibei-Railway/releases/download/v3.1.1.250524/LxhNolan-JBR-v3.1.1.250524.zip)]
 
 <aside>
 📄
@@ -388,7 +387,7 @@ Download后请务必阅读说明书！/Please make sure to read the instructions
 
 - 国内备用下载链接
     
-    [[DOWNLOAD](https://api-ghp.fjy.zone/https://github.com/LxhNolan/Jibei-Railway/releases/download/v3.1.1.250524/LxhNolan-JBR-v3.1.1.250524.zip)](https://api-ghp.fjy.zone/https://github.com/LxhNolan/Jibei-Railway/releases/download/v3.1.1.250524/LxhNolan-JBR-v3.1.1.250524.zip)
+    [[DOWNLOAD](https://api-ghp.fjy.zone/https://github.com/LxhNolan/Jibei-Railway/releases/download/v3.1.1.250524/LxhNolan-JBR-v3.1.1.250524.zip)]
     
 </aside>
 
@@ -502,13 +501,13 @@ Download后请务必阅读说明书！/Please make sure to read the instructions
 2. 本数据包为 .zip 文件，文件大小为105.3 MB，全部解压（包括里面的“Sceniros.exe”）后文件大小约为176 MB。
 3. 解压后请务必阅读“Read_Me.txt”文件。
 4. “Sceniros.exe”当中的2个主文件必须在同一个文件夹中。
-5. 本数据包和以上车辆数据包（车辆包目前只需下载[[Project-N1000](https://projectn1000.web.fc2.com/)](https://projectn1000.web.fc2.com/)的车辆包即可）除了需在BVE5游戏本体上运行之外，还需下载[[Nagoya_Common（2024年7月版）](http://moffbarrel.stars.ne.jp/Nagoya_Common.html)](http://moffbarrel.stars.ne.jp/Nagoya_Common.html)数据包，否则游戏无法正常运行。
+5. 本数据包和以上车辆数据包（车辆包目前只需下载[[Project-N1000](https://projectn1000.web.fc2.com/)](https://projectn1000.web.fc2.com/)的车辆包即可）除了需在BVE5游戏本体上运行之外，还需下载[[Nagoya_Common（2024年7月版）](http://moffbarrel.stars.ne.jp/Nagoya_Common.html)]数据包，否则游戏无法正常运行。
 </aside>
 
 <aside>
 😁
 
-**如果您喜欢我的作品，请[[点击这里](https://afdian.com/a/lxhnolan1649)](https://afdian.com/a/lxhnolan1649)支持我们！您的支持是我创作的原动力！**
+**如果您喜欢我的作品，请[[点击这里](https://afdian.com/a/lxhnolan1649)]支持我们！您的支持是我创作的原动力！**
 
 </aside>
 
